@@ -1,4 +1,4 @@
-
+//Ogetto Math
 
 alert(Math.random()); // numeri casuali
 
