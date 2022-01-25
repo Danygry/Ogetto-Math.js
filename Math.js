@@ -1,3 +1,5 @@
+
+
 alert(Math.random()); // numeri casuali
 
 
@@ -11,6 +13,9 @@ alert(Math.round(4.1)); // mostra il numero intero più vicino (4)
 
 
 alert(Math.min(22,41,89, -94)); // -94
+
+
+alert(Math.max(22,41,89, -94)); //41
 
 
 
